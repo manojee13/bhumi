@@ -13,6 +13,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.5.1'
 gem 'devise', '~> 3.5', '>= 3.5.6'
 gem 'paperclip', '~> 4.3', '>= 4.3.4'
+gem 'aws-sdk', '~> 2.2', '>= 2.2.14'
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 
